@@ -30,5 +30,8 @@ Building mobile apps that make a difference
 
 ---
 
-## 📚 Currently Learning:
-- TypeScript, Node.js, Firebase
+🤝 Let's Connect:
+💌 Email: mahendrakaduru.com
+🔗 LinkedIn
+💻 Portfolio
+
