@@ -33,6 +33,6 @@ Building mobile apps that make a difference
 ## 🤝 Let's Connect:  
 💌 Email: mahendrakaduru.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/mahendra-kaduru-7170032a3/](https://www.linkedin.com/in/mahendra-kaduru-7170032a3/)  
-💻 Portfolio: [Portfolio Link](file:///C:/Users/mahen/OneDrive/Documents/Desktop/portfolio.html)  
+💻 Portfolio: [Portfolio Link](http://mahendraportfolio.ct.ws/)  
 
 
