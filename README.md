@@ -1,25 +1,32 @@
 ## 👋 About Me:
-Hi there! I'm **M SWAMY VIVEKANANDA**, a final-year Computer Science and Engineering student at **Saveetha School of Engineering, Chennai**.  
-I'm passionate about building creative, user-friendly applications and love turning ideas into reality through code and design.
+Hi there! I'm **KADURU MAHENDRA**,  a final-year Computer Science and Engineering student at Saveetha School of Engineering, Chennai.
+I enjoy crafting clean, efficient, and user-friendly digital experiences — from mobile apps to full-stack web platforms.
 
-🔧 I specialize in **full-stack development** and **mobile app development**, and I enjoy working on platforms that solve real-world problems.
+🚀 I'm passionate about:
+
+Turning real-world problems into software solutions
+
+Designing smooth and engaging user interfaces
+
+Building mobile apps that make a difference
+
+🔧 My focus areas are mobile app development and full-stack development, and I love working with tools and technologies that bring ideas to life.
 
 ---
 
 ## 🛠️ Skills & Technologies:
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React Native, Flutter  
+- 🌐 **Frontend**: HTML, CSS, JavaScript, kotlin, Flutter  
 - 💻 **Backend**: PHP, MySQL  
 - 📚 **Programming Languages**: Java, C  
 - 🎨 **UI/UX Design**: Figma, Adobe XD  
-- 🛠️ **Tools**: XAMPP, MAMP, Git, GitHub  
+- 🛠️ **Tools**: MongoDB, Git, GitHub  
 
 ---
 
 ## 🚀 Projects:
-- 🎬 **Movie Ticket Booking System** – A full-featured web app with seat selection, payment integration, and admin panel.  
-- 🩺 **NDMRCALCULATORS** – A medical mobile app for Android and iOS, developed over a year.  
-- 🔁 **Skill Swap Platform** – A collaborative learning platform to teach and learn skills, with swap requests, chat, and event features.  
+
 - 🗣️ **Swaguru** – A speech sound disorder therapy app for children, developed for Android (Android Studio) and iOS (Xcode), with modules for practice and progress tracking.
+-  🎬 **Movie Ticket Booking System** – A full-featured web app with seat selection, payment integration, and admin panel.  
 
 ---
 
