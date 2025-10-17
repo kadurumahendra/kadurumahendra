@@ -1,5 +1,5 @@
 ## 👋 About Me:
-Hi there! I'm **KADURU MAHENDRA**,  a final-year Computer Science and Engineering student at Saveetha School of Engineering, Chennai.
+Hi there! I'm **KADURU MAHENDRA**,  a graduataed student Computer Science and Engineering student at Saveetha School of Engineering, Chennai.
 I enjoy crafting clean, efficient, and user-friendly digital experiences — from mobile apps to full-stack web platforms.
 
 🚀 I'm passionate about:
@@ -15,10 +15,10 @@ Building mobile apps that make a difference
 ---
 
 ## 🛠️ Skills & Technologies:
-- 🌐 **Frontend**: HTML, CSS, JavaScript, kotlin, Flutter  
+- 🌐 **Frontend**: HTML, CSS,XMl JavaScript, kotlin  
 - 💻 **Backend**: PHP, MySQL  
-- 📚 **Programming Languages**: Java, C  
-- 🎨 **UI/UX Design**: Figma, Adobe XD  
+- 📚 **Programming Languages**: Java, C++, OOP's, JDBC, Spring boot  
+- 🎨 **UI/UX Design**: Figma 
 - 🛠️ **Tools**: MongoDB, Git, GitHub  
 
 ---
@@ -33,6 +33,6 @@ Building mobile apps that make a difference
 ## 🤝 Let's Connect:  
 💌 Email: mahendrakaduru.com  
 🔗 LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/mahendra-kaduru-7170032a3/)  
-💻 Portfolio: [Portfolio Link](http://mahendraportfolio.ct.ws/)  
+💻 Portfolio: [Portfolio Link](https://kadurumahendra.github.io/PortFolio_Mahendra/)  
 
 
