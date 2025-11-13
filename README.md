@@ -24,14 +24,16 @@ Building mobile apps that make a difference
 ---
 
 
-## 🚀 Projects:
+## 🚀 Projects
 
-- 🗣️ **Developing Software for the Intervention of Speech Sound Disorders in Hindi and English, Accompanied by a Mobile Application**  
-  - Developed a **bilingual speech therapy mobile application** using **Android Studio** for both Hindi and English languages.  
-  - **User Module:** Features include account creation, personalized speech sound exercises with **audio-visual cues**, **real-time feedback**, and **progress tracking** stored in **MongoDB**.  
-  - **Admin Module:** Provides user management, therapy content configuration, and performance analytics, built using **Node.js APIs** and **MongoDB Compass**.  
-  - **UI Design:** Implemented using **XML layouts** for responsive and accessible interface design.  
-  - 🔗 **GitHub Repository:** [SwarGuru](https://github.com/kadurumahendra/SwarGuru)
+- 🗣️ **Speech Sound Disorder Intervention (Bilingual App – Hindi & English)**  
+  Developed a **speech therapy mobile app** in **Android Studio** using **XML** for UI.  
+  Features include personalized speech exercises with **audio-visual cues**, **real-time feedback**, and **progress tracking** via **MongoDB** and **Node.js APIs**.  
+  🔗 [GitHub Repository – SwarGuru](https://github.com/kadurumahendra/SwarGuru)
+
+- 📧 **Email Classification for Spam Detection using ML**  
+  Built a **machine learning model** to classify emails as **spam or ham** using **10,000 records**.  
+  Compared **Naive Bayes (82.67%)** with an **improved Decision Tree model (85.83%)**, achieving better accuracy in early spam detection.
 
 ## 🤝 Let's Connect:  
 💌 Email: mahendrakaduru.com  
