@@ -25,8 +25,12 @@ Building mobile apps that make a difference
 
 ## 🚀 Projects:
 
-- 🗣️ **Swaguru** – A speech sound disorder therapy app for children, developed for Android (Android Studio) and iOS (Xcode), with modules for practice and progress tracking.
--  🎬 **Movie Ticket Booking System** – A full-featured web app with seat selection, payment integration, and admin panel.  
+- 🗣️ **Developing Software for the Intervention of Speech Sound Disorders in Hindi and English, Accompanied by a Mobile Application**  
+  - Developed a **bilingual speech therapy mobile application** using **Android Studio** for both Hindi and English languages.  
+  - **User Module:** Features include account creation, personalized speech sound exercises with **audio-visual cues**, **real-time feedback**, and **progress tracking** stored in **MongoDB**.  
+  - **Admin Module:** Provides user management, therapy content configuration, and performance analytics, built using **Node.js APIs** and **MongoDB Compass**.  
+  - **UI Design:** Implemented using **XML layouts** for responsive and accessible interface design.  
+  - 🔗 **GitHub Repository:** [SwarGuru](https://github.com/kadurumahendra/SwarGuru)
 
 ---
 
