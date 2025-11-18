@@ -34,6 +34,7 @@ Building mobile apps that make a difference
 - 📧 **Email Classification for Spam Detection using ML**  
   Built a **machine learning model** to classify emails as **spam or ham** using **10,000 records**.  
   Compared **Naive Bayes (82.67%)** with an **improved Decision Tree model (85.83%)**, achieving better accuracy in early spam detection.
+  🔗 [GitHub Repository – Core Project](https://github.com/kadurumahendra/Email_Classiffication_coreproject)
 
 ## 🤝 Let's Connect:  
 💌 Email: mahendrakaduru.com  
